@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PraritMehta
 - 👀 I’m interested in coding,Web development.
-- 🌱 I’m currently learning CSE.
+- 🌱 I’m currently learning BCA.
 - 💞️ I’m looking to collaborate on any company.
 - 📫 How to reach me :-
 - email:-praritmehta2004@gmail.com
